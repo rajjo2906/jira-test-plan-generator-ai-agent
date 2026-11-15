@@ -1,2 +1,7 @@
 node_modules/
-dist/
+frontend/dist/
+backend/data/settings.json
+.env
+.env.*
+**/.env
+**/.env.*
