@@ -1,0 +1,9 @@
+node_modules
+**/node_modules
+frontend/dist
+backend/data
+**/settings.json
+.env
+.env.*
+**/.env
+**/.env.*
